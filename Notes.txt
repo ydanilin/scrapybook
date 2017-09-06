@@ -1,0 +1,8 @@
+
+Where downloading:
+https://stackoverflow.com/questions/10155708/where-does-vagrant-download-its-box-files-to
+
+https://vagrantcloud.com/lookfwd/boxes/scrapybook/versions/1.0.0/providers/virtualbox.box
+
+13,4 55
+8.34 46
